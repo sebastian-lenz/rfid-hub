@@ -2,6 +2,7 @@
 #include "hid/SensorEvent.h"
 #include "ui/HomeScreen.h"
 #include "ui/ScreenEvent.h"
+#include "ui/Sprites.h"
 #include "globals.h"
 
 HomeScreen::HomeScreen() {

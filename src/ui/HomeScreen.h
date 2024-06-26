@@ -4,7 +4,6 @@
 #include "base/Event.h"
 #include "hid/Sensor.h"
 #include "ui/Screen.h"
-#include "Sprites.h"
 
 class HomeScreen : public Screen
 {

@@ -16,8 +16,8 @@
 #define SENSOR_3 22, 17
 
 #define NUM_BUTTONS 2
-#define BUTTON_0 7
-#define BUTTON_1 8
+#define BUTTON_0 8
+#define BUTTON_1 7
 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
